@@ -3,3 +3,4 @@ bananas
 apples
 greek yoghurt
 butter
+eggs
